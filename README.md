@@ -8,21 +8,21 @@ QuickNotes is a simple note-taking web application that allows users to create, 
 - Delete notes
 - Search notes
 - Input validation
-- Note counter
-- Automatic localStorage saving
+- Automatic note counting
+- Data persistence with localStorage
 - Responsive design
 
 ## How to Run Locally
 
 1. Clone or download the repository.
 2. Open the project folder.
-3. Open index.html in your browser.
-4. Start creating notes.
+3. Open index.html in a web browser.
+4. Add, search, and manage notes.
 
 ## What I Learned
 
-- How to build forms with HTML.
-- How to style layouts using Flexbox and CSS.
-- How to manipulate the DOM with JavaScript.
+- How to build forms using HTML.
+- How to style layouts using CSS Flexbox.
+- How to create dynamic interfaces using JavaScript.
 - How to save data using localStorage.
-- How to use Git and GitHub for version control.
+- How to manage a project with Git and GitHub.
